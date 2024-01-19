@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leigh-Stewart
 - 👀 I’m interested in web development, web design, coding, debugging, graphic design, animation, illustration, and visual communications.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and more!
+- 🌱 I’ve am currently focused on learning JavaScript as well as using JQuery.
 - 💞️ I’m looking to collaborate on projects that can test/challenge my professinal skills and knowledge and be added to my portfolio.
 - 📫 How to reach me: email devleighstewart@gmail.com, or phone/text (403)-554-2049.
 
