@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leigh-Stewart
 - 👀 I’m interested in web development, web design, coding, debugging, graphic design, animation, illustration, and visual communications.
-- 🌱 Proficiencies: HTML/CSS (intermediate), Figma.
+- 🌱 Proficiencies: HTML/CSS, Figma, Notion and GitHub.
 - 💞️ I’m looking to collaborate on projects that can test/challenge my professinal skills and knowledge and be added to my portfolio.
 - 📫 How to reach me: email ecoleighstewart@proton.me
 <!---
